@@ -1,0 +1,17 @@
+{
+    "name": "nicolas/academia",
+    "autoload": {
+        "psr-4":{
+            "Balancer\\":"Balancer/",
+            "Test\\":"Test/",
+            "Interfaces\\":"interfaces/",
+            "Servers\\":"Servers/",
+            "Decorator\\":"Decorator"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^8.5",
+        "slim/slim": "^4.4",
+        "slim/psr7": "^1.0"
+    }
+}

@@ -1,0 +1,3 @@
+<p> {{id}} </p> <p> {{nombre}}</p>
+<p> {{precio}}</p>
+<p><a href='index.php?page=verCarrito&id={{id}}'>Agregar Al Carrito</a> </p>

@@ -1,0 +1,12 @@
+{
+    "name": "moran/academia",
+    "autoload": {
+        "psr-4": {
+            "Clase\\":"Clases/",
+            "Test\\":"Tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
