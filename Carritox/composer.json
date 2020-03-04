@@ -1,0 +1,12 @@
+{
+    "name": "nicolas/carrito",
+    "autoload": {
+        "psr-4":{
+            "Carritox\\":"src/",
+            "Library\\":"lib/"
+            
+            
+        }
+    },
+    "require": {}
+}

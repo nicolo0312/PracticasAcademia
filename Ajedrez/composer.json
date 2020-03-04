@@ -1,0 +1,13 @@
+{
+    "name": "nicolas/academia",
+
+    "autoload": {"psr-4": {
+    "Ajedrez\\":"src/",
+    "Test\\":"tests/",
+    "Inter\\":"Interface/"
+    }},
+
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
